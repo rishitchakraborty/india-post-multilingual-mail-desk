@@ -1,0 +1,6 @@
+{
+  "name": "India Post Multilingual Mail Desk",
+  "description": "Official postal mail translation and regional reply desk for India Post (डाक विभाग), supporting 22+ Indian languages with Gemini and configurable self-hosted Qwen LLM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
